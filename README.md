@@ -3,7 +3,7 @@
 #### Technical Skills: Splunk, Qradar, Crowdstrike, Qualys, Tenable Nessus, Lacework, Cisco Umbrella, Jira, Confluence, Docker, Kubernetes, AWS, Azure( Sentinel, Defender for EndPoint), GCP, Frameworks (MITRE ATT&CK, Cyber Kill Chain), Active Directory,Network Security Groups, Autopsy, FTK Imager, SIFT, WireShark, TCPdump 
 
 ## Education						       		
-- M.Eng., Cybersecurity Engineering	| University of Maryland at College Park (_May 2024_)	 			        		
+- M.Eng, Cybersecurity Engineering	 | University of Maryland at College Park (_May 2024_)	 			        		
 - B.Tech, Electronics and Communication Engineering | Jawaharlal Nehru Technological University Hyderabad (_May 2019_)
 
 ## Work Experience
