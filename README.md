@@ -27,7 +27,7 @@
 ### Penetration Testing of a Active Directory Network
 
 ### Forensic Investigation of a Compromised Machine
-### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Cloud
+### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Multi Cloud Environment
 ### Buffer Overflow Attacks
 ### Containerizing a ChatServer Application
 
