@@ -33,6 +33,7 @@
   - Keepass Password Manager Vulnerability ( CVE-2023-32784 )
   - S3 Bucket containing sensitive files with public read access
 - Documented the vulnerabilities and necessary recommendations in a Penetration Test Report.
+
 *** Forensic Investigation of a Compromised Windows Machine
 - Artifact: Windows XP VM
 - Tools Used: Autopsy, SIFT Work Station, Base64 Decoder, Veracrypt, Wireshark, VirusTotal
