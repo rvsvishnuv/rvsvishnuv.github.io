@@ -28,10 +28,10 @@
 - Network Details: two Windows hosts, one Windows server, one Ubuntu server, Insecure AWS S3 Bucket
 - Tools Used: Kali Linux, NMAP, Metasploit, smbclient, gobuster, John The Ripper, Hashcat, Powershell
 - Vulnerabilities and Misconfiguration Indentfied
--- Ubuntu Server with sensitive Information ( Username )
--- A Windows 7 Host with Eternal Blue Vulnerability ( CVE-2017-0144 )
--- Keepass Password Manager Vulnerability ( CVE-2023-32784 )
--- S3 Bucket containing sensitive files with public read access 
+  - Ubuntu Server with sensitive Information ( Username )
+  - A Windows 7 Host with Eternal Blue Vulnerability ( CVE-2017-0144 )
+  - Keepass Password Manager Vulnerability ( CVE-2023-32784 )
+  - S3 Bucket containing sensitive files with public read access 
 ### Forensic Investigation of a Compromised Machine
 
 ### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Multi Cloud Environment
