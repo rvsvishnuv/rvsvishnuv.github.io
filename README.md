@@ -24,15 +24,8 @@
 
 
 ## Projects
-
-[Github Repo](https://github.com/rvsvishnuv/ContainerizingaChatServer)
-
-
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Penetration Testing of a Active Directory Network
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+
 ### Forensic Investigation of a Compromised Machine
 ### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Cloud
 ### Buffer Overflow Attacks
@@ -40,14 +33,12 @@
 
 
 
+## Capture the Flags and Trainings
+### Hack The Box
+### Try Hack Me
+### Proving Grounds
+
+
+
+[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 ![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
-## Publications
-
-- [Data Science Blog](https://medium.com/@shawhin)
