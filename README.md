@@ -31,19 +31,14 @@
   - Ubuntu Server with sensitive Information ( Username )
   - A Windows 7 Host with Eternal Blue Vulnerability ( CVE-2017-0144 )
   - Keepass Password Manager Vulnerability ( CVE-2023-32784 )
-  - S3 Bucket containing sensitive files with public read access 
-### Forensic Investigation of a Compromised Machine
-
-### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Multi Cloud Environment
-### Buffer Overflow Attacks
-### Containerizing a ChatServer Application
-
-## Capture the Flags and Trainings
-### Hack The Box
-### Try Hack Me
-### Proving Grounds
-
-
-
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-![Bike Study](/assets/img/bike_study.jpeg)
+  - S3 Bucket containing sensitive files with public read access
+- Documented the vulnerabilities and necessary recommendations in a Penetration Test Report.
+### Forensic Investigation of a Compromised Windows Machine
+- Artifact: Windows XP VM
+- Tools Used: Autopsy, SIFT Work Station, Base64 Decoder, Veracrypt, Wireshark, VirusTotal
+- Findings:
+  - Found a suspicious .exe process running on the machine.
+  - Extracted the suspicious process and analysed them for network traffic.
+  - Found the processes to be sending malcious messages to a C2 server.
+  - Found encrypted files on the machine and decrypted them using veracrypt and obtained pass key from the network traffic.
+- Documented the findings in a Forensic Report in legal format.
