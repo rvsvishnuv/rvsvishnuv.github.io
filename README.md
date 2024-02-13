@@ -1,6 +1,6 @@
 # Cyber Security
 
-#### Technical Skills: Splunk, Qradar, Crowdstrike, Qualys, Tenable Nessus, Lacework, Cisco Umbrella, Jira, Confluence, Docker, Kubernetes, AWS, Azure( Sentinel, Defender for EndPoint), GCP, Frameworks (MITRE ATT&CK, Cyber Kill Chain), Active Directory,Network Security Groups, Autopsy, FTK Imager, SIFT, WireShark, TCPdump 
+#### Technical Skills: Splunk, Qradar, Crowdstrike, Qualys, Tenable Nessus, Lacework, Cisco Umbrella, Jira, Confluence, Docker, Kubernetes, AWS, Azure( Sentinel, Defender for EndPoint), GCP, Frameworks (MITRE ATT&CK, Cyber Kill Chain), Active Directory,Network Security Groups, Autopsy, FTK Imager, SIFT, WireShark, TCPdump, Python, Powershell
 
 ## Education						       		
 - M.Eng, Cybersecurity Engineering	 | University of Maryland at College Park (_May 2024_)	 			        		
@@ -25,13 +25,18 @@
 
 ## Projects
 ### Penetration Testing of a Active Directory Network
-
+- Network Details: two Windows hosts, one Windows server, one Ubuntu server, Insecure AWS S3 Bucket
+- Tools Used: Kali Linux, NMAP, Metasploit, smbclient, gobuster, John The Ripper, Hashcat, Powershell
+- Vulnerabilities and Misconfiguration Indentfied
+-- Ubuntu Server with sensitive Information ( Username )
+-- A Windows 7 Host with Eternal Blue Vulnerability ( CVE-2017-0144 )
+-- Keepass Password Manager Vulnerability ( CVE-2023-32784 )
+-- S3 Bucket containing sensitive files with public read access 
 ### Forensic Investigation of a Compromised Machine
+
 ### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Multi Cloud Environment
 ### Buffer Overflow Attacks
 ### Containerizing a ChatServer Application
-
-
 
 ## Capture the Flags and Trainings
 ### Hack The Box
