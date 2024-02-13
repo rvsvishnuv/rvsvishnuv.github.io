@@ -24,15 +24,19 @@
 
 
 ## Projects
-### Containerizing a ChatServer Application
+
 [Github Repo](https://github.com/rvsvishnuv/ContainerizingaChatServer)
 
 
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### Penetration Testing of a Active Directory Network
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Forensic Investigation of a Compromised Machine
+### Designing a Secure Cloud Architecture for migrating a On Premises Servers to Cloud
+### Buffer Overflow Attacks
+### Containerizing a ChatServer Application
 
 
 
